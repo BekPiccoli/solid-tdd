@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist", // Arquivos compilados serão colocados na pasta dist;
+    "module": "commonjs", // Transforma o código para o módulo CommonJS no build;
+    "target": "es2019", // Define a versão do JavaScript para ES2019;
+    "esModuleInterop": true, // Habilita interoperabilidade entre módulos ES e CommonJS;
+    "allowJs": true // Permite a importação de arquivos JavaScript;
+  }
+}
