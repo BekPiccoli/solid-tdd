@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/BekPiccoli/solid-tdd/issues"
   },
-  "homepage": "https://github.com/BekPiccoli/solid-tdd#readme"
+  "homepage": "https://github.com/BekPiccoli/solid-tdd#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^5.0.8"
+  }
 }
